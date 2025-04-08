@@ -1,0 +1,44 @@
+
+Video 2 = Solving Navbar Challenge = Aceternity ui
+react ke component directly use nhi kr skte h isiliye hume top pr 'use client' likhna pdta h.
+component/ui/navbar-menu.tsx
+component/ui/Navbar.tsx
+tailwind config.ts
+lib/utils
+app/layout.tsx
+app/page.tsx
+
+Video 3 = Solving Hero section Challenge
+spotlight ui component
+moving border ui component
+plugin
+
+Video 4 = Building featured card section
+uses background gradient ui component
+uses concepts of typescript
+
+Video 5 = Designing sticky roll
+uses Sticky Scroll Reveal component
+made changes to work with it
+
+Video 6 = grid background and moving cards
+uses infine moving card ui component
+uses grid and dot background ui component
+uses plugins
+
+video 7 = Card Hover Effect
+uses card Hover Effect ui component
+
+Video 8 = Animated tooltip and wavy background
+uses Animated tooltip ui component
+uses wavy background ui component
+explored unsplash.com, pexels.com, cloudinary.com
+learnt about nextjs config.mjs file 
+
+Video 9 = shadcn and daisy ui in nextjs
+created footer of the project
+made Navbar clickable
+uses 3d card Effect ui component
+uses meteor ui component
+explored shadcn ui component library
+explored daisy ui component library
