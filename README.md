@@ -1,4 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+
+# 🎶 Music School - Next.js Project
+
+Welcome to the Music School web application built with [Next.js](https://nextjs.org/)!  
+This platform is designed to help aspiring musicians explore courses, connect with instructors, and grow their musical talent.
+
+---
+
+## 🚀 Features
+
+- ✅ Built with **Next.js**
+- 🎨 Styled using **Tailwind CSS**
+- 📄 Pages for:
+  - Home
+  - Courses
+  - Instructors
+  - Contact
+- 🔁 Dynamic routing and clean navigation
+- 📱 Fully responsive design
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page]
+<img width="936" alt="image" src="https://github.com/user-attachments/assets/f2888b65-781f-40cd-afd7-de15505fd315" />
+
+### 📚 Courses Page
+![Courses Page]
+<img width="951" alt="image" src="https://github.com/user-attachments/assets/58c6e395-974d-4283-a8aa-01d18e74385a" />
+
+### 👨‍🏫 Instructors Page
+![Instructors Page]
+<img width="929" alt="image" src="https://github.com/user-attachments/assets/ea82bd2b-00df-4017-ae28-bee155480be6" />
+
+
+### ✉️ Contact Page
+![Contact Page]
+<img width="942" alt="image" src="https://github.com/user-attachments/assets/bf061755-f239-465a-b5be-51f691fa720e" />
+
+---
+
+## 🛠️ Tech Stack
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Node.js](https://nodejs.org/)
+
+---
+
+## 💻 Getting Started
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/your-username/music-school.git
+   cd music-school
 
 ## Getting Started
 
